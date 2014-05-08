@@ -1,0 +1,6 @@
+1>warnings in directory d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver
+1>d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver\ssdt_hook_driver.cpp(370) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver\ssdt_hook_driver.cpp(460) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver\ssdt_hook_driver.cpp(494) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver\ssdt_hook_driver.cpp(531) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>d:\program\ssdt_hook_driver_forreg\ssdt_hook_driver\ssdt_hook_driver.cpp(569) : warning C4996: 'ExAllocatePool': was declared deprecated
